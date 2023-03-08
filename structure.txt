@@ -1,0 +1,14 @@
+A ML project to predict the gender and age of images parsed to the model
+
+## LIBRARIES
+- Deepface
+    run -> pip install deepface
+- OpenCV
+    run -> pip install opencv-python
+- Pandas
+    run -> pip install pandas
+
+## STEPS
+- Import libraries -> opencv, deepface, pandas
+- read the images
+- 
