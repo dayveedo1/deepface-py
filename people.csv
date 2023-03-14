@@ -1,10 +1,18 @@
-,Name,Age,Gender,Race
-0,a,28,Woman,asian
-1,b,33,Man,black
-2,c,24,Man,latino hispanic
-3,d,22,Man,white
-4,e,34,Man,indian
-5,f,29,Woman,latino hispanic
-6,g,25,Man,black
-7,h,29,Woman,white
-8,k,24,Man,black
+,Name,Age,Gender,Race,Emotion
+0,a,28,Woman,asian,neutral
+1,b,33,Man,black,neutral
+2,brit_1,37,Woman,white,happy
+3,brit_2,44,Woman,white,happy
+4,brit_3,40,Woman,white,happy
+5,c,24,Man,latino hispanic,neutral
+6,d,22,Man,white,neutral
+7,deepika,29,Man,indian,neutral
+8,e,34,Man,indian,neutral
+9,edna,28,Man,black,fear
+10,edna_new,30,Man,black,happy
+11,ee,31,Man,black,happy
+12,f,29,Woman,latino hispanic,happy
+13,g,25,Man,black,sad
+14,h,29,Woman,white,neutral
+15,hair_black,28,Woman,asian,neutral
+16,k,24,Man,black,happy
